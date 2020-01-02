@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/mishon-pon-pon/http-rest-api/app/apiserver/store"
+	"github.com/mishon-pon-pon/http-rest-api/app/store"
 	"github.com/sirupsen/logrus"
 )
 
